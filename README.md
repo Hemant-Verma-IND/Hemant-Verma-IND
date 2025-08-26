@@ -1,4 +1,4 @@
-[![Header](https://media.licdn.com/dms/image/v2/D4D16AQHSighR_8i1kw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715587655790?e=1758153600&v=beta&t=-WYgwK9TMkMLj-si_VEdSJw9rM14KZ78D5u-oNoxzE8)](https://www.linkedin.com/in/hemant-verma-ind/)
+[![Header](https://github.com/user-attachments/assets/19a5597c-5100-42f9-b77b-c475343ef55c)](https://www.linkedin.com/in/hemant-verma-ind/)
 
 
 ### Namastey, I'm Hemant Verma 🙏
