@@ -67,13 +67,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemant-Verma-IND&show_icons=true&theme=tokyonight" alt="Hemant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant-Verma-IND&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### ⚡ Fun fact  
 
