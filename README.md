@@ -74,3 +74,22 @@
 // Engineer’s Life:
 const hemant = ["Dream", "Build", "Innovate", "Repeat"];
 console.log(hemant.join(" ➝ "));
+```
+
+---
+<div align="center">
+  <a href="https://iapss.vercel.app">
+    <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/7b10c62c-096f-434e-bf31-1fdbd5ce0b53" />
+  </a>
+
+<h1 align="center">
+  <!-- <img src="./client/src/assets/iapss-text.svg" alt="IAPSS" height="40" ; margin-bottom: -5px;">  -->
+  IAPSS is LIVE... 
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" style="vertical-align:middle"> -->
+</h1>
+  
+  <p align="center">
+    <strong>INTELLIGENT ACADEMIC PROBLEM-SOLVING SYSTEM</strong>
+  </p>
+
+### [Go to Website](https://iapss.vercel.app)
