@@ -96,7 +96,7 @@ console.log(hemant.join(" ➝ "));
 
 ---
 <div align="center">
-  <a href="[https://talkflow-iota.vercel.app](https://talkflow-iota.vercel.app/)">
+  <a href="https://talkflow-iota.vercel.app/">
 <img width="83" height="80" alt="image" src="https://github.com/user-attachments/assets/a28467e1-1e12-4d1b-9476-2f494a170ff0" />
   </a>
 
