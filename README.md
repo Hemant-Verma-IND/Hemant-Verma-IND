@@ -112,6 +112,12 @@ console.log(hemant.join(" ➝ "));
 ### [Explore TalkFlow](https://talkflow-iota.vercel.app/)
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚧%20TalkFlow%20is%20currently-Under%20Maintenance-red?style=for-the-badge" />
+
+</div>
+
 ---
 
 <div align="center">
