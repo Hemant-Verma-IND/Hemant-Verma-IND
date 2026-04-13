@@ -93,7 +93,7 @@ console.log(hemant.join(" ➝ "));
     <strong>INTELLIGENT ACADEMIC PROBLEM-SOLVING SYSTEM</strong>
   </p>
 
-### [Go to Website](https://talkflow-iota.vercel.app/)
+### [Go to Website](https://iapss.vercel.app)
 
 ---
 <div align="center">
