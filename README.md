@@ -28,6 +28,7 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)  
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)  
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss)
 
 </td>
 <td>
@@ -35,6 +36,7 @@
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)  
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 
 </td>
 </tr>
